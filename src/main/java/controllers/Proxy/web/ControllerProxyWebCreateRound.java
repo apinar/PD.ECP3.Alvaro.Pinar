@@ -1,6 +1,6 @@
-package controllersProxy.mobile;
+package controllers.Proxy.web;
 
-public class ControllerProxyMobilCreateRound implements FrontControllerProxyMobil{
+public class ControllerProxyWebCreateRound implements FrontControllerProxyWeb{
 
 	@Override
 	public void doGet() {

@@ -1,4 +1,4 @@
-package controllersProxy.mobile;
+package controllers.Proxy.mobile;
 
 public class ControllerProxyMobileDeleteRound implements FrontControllerProxyMobil{
 

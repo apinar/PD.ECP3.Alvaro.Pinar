@@ -1,4 +1,4 @@
-package controllersProxy.web;
+package controllers.Proxy.web;
 
 public class ControllerProxyWebDeleteRound implements FrontControllerProxyWeb{
 
