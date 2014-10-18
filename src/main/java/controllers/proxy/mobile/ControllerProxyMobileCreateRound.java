@@ -1,4 +1,4 @@
-package controllers.Proxy.mobile;
+package controllers.proxy.mobile;
 
 public class ControllerProxyMobileCreateRound implements FrontControllerProxyMobile{
 

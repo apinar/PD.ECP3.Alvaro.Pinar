@@ -1,4 +1,4 @@
-package controllers.Proxy.web;
+package controllers.proxy.web;
 
 public class ControllerProxyWebLogin implements FrontControllerProxyWeb{
 

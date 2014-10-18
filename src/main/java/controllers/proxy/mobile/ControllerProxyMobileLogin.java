@@ -1,6 +1,6 @@
-package controllers.Proxy.mobile;
+package controllers.proxy.mobile;
 
-public class ControllerProxyMobileDeleteRound implements FrontControllerProxyMobile{
+public class ControllerProxyMobileLogin implements FrontControllerProxyMobile{
 
 	@Override
 	public void doGet() {
