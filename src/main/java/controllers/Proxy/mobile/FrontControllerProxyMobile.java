@@ -1,6 +1,6 @@
 package controllers.Proxy.mobile;
 
-public interface FrontControllerProxyMobil {
+public interface FrontControllerProxyMobile {
 	public void doGet();
 	public void doPost();
 

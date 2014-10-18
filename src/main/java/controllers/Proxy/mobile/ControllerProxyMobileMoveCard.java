@@ -1,6 +1,6 @@
 package controllers.Proxy.mobile;
 
-public class ControllerProxyMobilLogout implements FrontControllerProxyMobil{
+public class ControllerProxyMobileMoveCard implements FrontControllerProxyMobile{
 
 	@Override
 	public void doGet() {
