@@ -1,4 +1,4 @@
-package controllers.proxy.mobile;
+package controllersProxy.mobile;
 
 public class ControllerProxyMobileMoveCard implements FrontControllerProxyMobile{
 

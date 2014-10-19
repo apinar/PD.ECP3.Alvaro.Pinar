@@ -1,4 +1,4 @@
-package controllers.proxy.web;
+package controllersProxy.web;
 
 public interface FrontControllerProxyWeb {
 	public void doGet();

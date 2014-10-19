@@ -1,6 +1,6 @@
-package controllers.proxy.web;
+package controllersProxy.web;
 
-public class ControllerProxyWebCreateRound implements FrontControllerProxyWeb{
+public class ControllerProxyWebDeleteRound implements FrontControllerProxyWeb{
 
 	@Override
 	public void doGet() {

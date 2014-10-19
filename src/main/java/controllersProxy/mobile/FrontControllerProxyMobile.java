@@ -1,4 +1,4 @@
-package controllers.proxy.mobile;
+package controllersProxy.mobile;
 
 public interface FrontControllerProxyMobile {
 	public void doGet();

@@ -1,6 +1,6 @@
-package controllers.proxy.web;
+package controllersProxy.mobile;
 
-public class ControllerProxyWebLogout implements FrontControllerProxyWeb{
+public class ControllerProxyMobileDeleteRound implements FrontControllerProxyMobile{
 
 	@Override
 	public void doGet() {
