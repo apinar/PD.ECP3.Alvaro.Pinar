@@ -1,5 +1,5 @@
 package models.DAO;
 
-public class UserDAO {
+public abstract class UserDAO<T, ID> extends GenericDAO<T, ID>{
 
 }

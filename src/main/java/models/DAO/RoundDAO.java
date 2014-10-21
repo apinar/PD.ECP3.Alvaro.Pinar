@@ -1,5 +1,6 @@
 package models.DAO;
 
-public class RoundDAO {
+public abstract class RoundDAO<T, ID> extends GenericDAO<T, ID>{
+
 
 }
