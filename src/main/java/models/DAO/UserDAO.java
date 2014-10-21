@@ -1,5 +1,7 @@
 package models.DAO;
 
-public abstract class UserDAO<T, ID> extends GenericDAO<T, ID>{
+import models.entities.User;
+
+public abstract interface UserDAO extends GenericDAO<User, Integer>{
 
 }

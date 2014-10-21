@@ -2,7 +2,7 @@ package models.DAO.mem;
 
 import models.DAO.GenericDAO;
 
-public class MemGenericDAO<T, ID> extends GenericDAO<T, ID>{
+public class MemGenericDAO<T, ID> implements GenericDAO<T, ID>{
 
 	@Override
 	public void create(T entity) {

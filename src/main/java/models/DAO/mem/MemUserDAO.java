@@ -1,17 +1,18 @@
 package models.DAO.mem;
 
 import models.DAO.UserDAO;
+import models.entities.User;
 
-public class MemUserDAO<T, ID> extends UserDAO<T, ID>{
+public class MemUserDAO extends MemGenericDAO<User, Integer> implements UserDAO{
 
 	@Override
-	public void create(T entity) {
+	public void create(User entity) {
 		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public T read(ID id) {
+	public User read(Integer id) {
 		// TODO Auto-generated method stub
 		return null;
 	}

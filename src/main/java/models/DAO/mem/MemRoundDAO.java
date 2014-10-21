@@ -1,17 +1,18 @@
 package models.DAO.mem;
 
 import models.DAO.RoundDAO;
+import models.entities.Round;
 
-public class MemRoundDAO<T, ID> extends RoundDAO<T, ID>{
+public class MemRoundDAO extends MemGenericDAO<Round, Integer> implements RoundDAO{
 
 	@Override
-	public void create(T entity) {
+	public void create(Round entity) {
 		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public T read(ID id) {
+	public Round read(Integer id) {
 		// TODO Auto-generated method stub
 		return null;
 	}
