@@ -4,6 +4,7 @@ public class Round {
 	private int id;
 	private int points;
 	private String tablero;
+	
 	public int getId() {
 		return id;
 	}
